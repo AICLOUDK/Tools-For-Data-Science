@@ -1,0 +1,39 @@
+1-A markdown cell with the title of the notebook
+p1
+notebook name is project 1 (p1)
+print project 1 
+2 - a markdown cell with the title of the notebook. 
+project one name python programming
+3 -  a markdown cell for an introduction. 
+this is a book related to python and concepts of python programming.
+ 4 - a markdown cell to list data science languages. 
+python language and libraries used in data science.
+5 -  a markdown cell to list data science libraries. 
+libraries such as 
+#
+Scikit-learn
+NumPy
+Matplotlib
+SciPy
+pandas
+tensorflow
+keras
+​
+ 6 -  a markdown cell with a table of Data Science tools. 
+tools such as 
+python 
+Project Jupyter
+Tableau
+ 7 -  a markdown cell introducing arithmetic expression examples. 
+ 
+ it is arithmic equatins which are utilized to solve mathematical exeressions.
+ 8 -  a code cell to multiply and add numbers. 
+solve (2*3)+1
+=6+1=7
+ 9 -  a code cell to convert minutes to hours. 
+"time")
+min=int(input("time")
+10 - a markdown cell to list Objectives. 
+print(list)
+11 -  a markdown cell to indicate the 
+print("name")
